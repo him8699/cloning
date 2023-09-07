@@ -75,10 +75,19 @@
     body{
         background: rgb(210, 239, 239);
     }   
-    
+    .container5 div{
+        background-color: rgb(219, 217, 214);
+    }
+    .him1{
+        margin-bottom: 3%;
+    }
     .him2{
         background: black;
         margin-right: 3%;
+    }
+    #gim{
+        padding: 5%;
+        padding-top: 1.5%;
     }
     #close{
         position: absolute;
